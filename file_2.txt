@@ -2,3 +2,4 @@ This is the first line of code updated by user1
 This is the second line of code updated by user1
 This is the third line of code updated by user1
 This is the fourth line of code created by user1
+Updated by simple feature branch
